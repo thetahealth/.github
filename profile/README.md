@@ -1,6 +1,7 @@
 <div align="center">
 
 <img src="mirobody_banner.png" alt="Mirobody" width="100%">
+<br><br>
 
 [![X](https://img.shields.io/badge/X-@thetawellnessai-FAF8F4?style=for-the-badge&labelColor=EDE8DF&logo=x&logoColor=1E3A5F)](https://x.com/thetawellnessai)
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-Theta%20Health-FAF8F4?style=for-the-badge&labelColor=EDE8DF&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/company/trythetahealth/)
