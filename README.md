@@ -1,2 +1,3 @@
-# .github
-Theta Health organization profile — Before doctors, beyond records.
+# Theta Health
+
+Organization profile for [github.com/thetahealth](https://github.com/thetahealth). The profile content lives in [`profile/README.md`](profile/README.md).
